@@ -1,16 +1,106 @@
-## Hi there 👋
+# Hi, I'm Michael Gurule 👋
 
-<!--
-**Michael-Gurule/michael-gurule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Former Strategy Consultant | Production ML Engineer**
 
-Here are some ideas to get you started:
+Transitioning from 8 years of Fortune 500 consulting to data science roles, with a focus on production-grade ML systems and business-driven analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Currently building production ML systems and advanced analytics projects
+- MS Data Science + AWS Certified Data Engineer + Google Advanced Data Analytics
+- Former Senior Strategy Consultant at Sedgwick and JS Held
+- Based in Colorado
+- Seeking Senior Data Scientist / ML Engineer roles
+
+**What sets me apart:** I combine deep technical ML skills with 8 years of Fortune 500 client experience. I don't just build models—I build production systems that deliver measurable business impact.
+
+---
+
+## 💼 Featured Portfolio Projects
+
+### 🌋 [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
+Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sources.
+- **Tech Stack:** Python, FastAPI, Streamlit, Pandas, Plotly
+- **Highlights:** Multi-source API integration, geographic risk scoring, production error handling
+- **Business Value:** Portfolio risk assessment for real estate and insurance industries
+
+### 🔒 [Real-Time Fraud Detection System](https://github.com/michael-gurule/fraud-detection-system)
+Production ML pipeline with cost-optimized decision thresholds delivering $474K monthly savings.
+- **Tech Stack:** Python, XGBoost, FastAPI, Streamlit
+- **Highlights:** Custom cost functions, sub-100ms API latency, interactive monitoring
+- **Business Value:** Optimized precision-recall tradeoff based on real business costs
+
+### 📊 [Marketing Attribution with Causal Inference](https://github.com/michael-gurule/marketing-attribution)
+Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing impact.
+- **Tech Stack:** Python, scikit-learn, statsmodels, DoWhy, CausalML
+- **Highlights:** Propensity score matching, difference-in-differences, CATE estimation
+- **Business Value:** Separates correlation from causation in marketing ROI analysis
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+**ML & Data Science:**  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-00ADD8?style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Production & APIs:**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Cloud & Data:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Specializations:**
+- Production ML Systems & MLOps
+- Causal Inference & Experimental Design
+- Business Analytics & Strategy
+- API Development & Data Engineering
+
+---
+
+## 🏆 Certifications
+
+- 🎓 **MS Data Science** - In Progress
+- ☁️ **AWS Certified Data Engineer – Associate**
+- 📊 **Google Advanced Data Analytics Professional Certificate**
+
+---
+
+## 💡 What I'm Learning
+
+- Advanced MLOps and model deployment patterns
+- Real-time streaming data pipelines
+- Deep learning for computer vision
+- Large language model applications
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/michaelgurule](https://linkedin.com/in/michaelgurule)
+- 📧 **Email:** michaelgurule1164@gmail.com
+- 🌐 **Portfolio:** [Coming soon]
+- 📝 **Medium:** [Michaelgurule](https://medium.com/@michaelgurule1164)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelgurule)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michaelgurule1164@gmail.com)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@michaelgurule1164)
+---
+
+💬 *Open to opportunities in data science, ML engineering, and analytics roles. Particularly interested in companies solving real-world problems with data.*
+
+---
+
+⭐️ From [michael-gurule](https://github.com/michael-gurule)
