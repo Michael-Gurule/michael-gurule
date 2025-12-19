@@ -22,7 +22,7 @@ Transitioning from 8 years of Fortune 500 consulting to data science roles, with
 
 ## [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
 
-A production-grade machine learning platform demonstrating advanced sensor fusion techniques for Department of Defense applications. Integrates Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation algorithms for real-time threat detection and tracking.
+A production-grade machine learning platform demonstrating advanced sensor fusion techniques for Defense applications. Integrates Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation algorithms for real-time threat detection and tracking.
 
 ### Deployed Features
 
