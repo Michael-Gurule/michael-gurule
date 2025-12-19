@@ -1,4 +1,4 @@
-# Hi, I'm Michael Gurule 👋
+# Hi, I'm Michael Gurule 
 
 **Data Scientist | Former Strategy Consultant | Production ML Engineer**
 
@@ -18,21 +18,54 @@ Transitioning from 8 years of Fortune 500 consulting to data science roles, with
 
 ---
 
-## 💼 Featured Portfolio Projects
+### *Currently under active development*
 
-### 🌋 [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
+## [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
+
+A production-grade machine learning platform demonstrating advanced sensor fusion techniques for Department of Defense applications. Integrates Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation algorithms for real-time threat detection and tracking.
+
+### Deployed Features
+
+### Multi-Sensor Fusion Engine
+- Implements Kalman filtering with covariance-weighted measurement fusion
+- Mahalanobis distance data association for multi-target tracking
+- Real-time track quality assessment and uncertainty quantification
+
+### RF Geolocation Algorithms
+- TDOA/FDOA positioning using nonlinear least-squares optimization
+- Hybrid time-frequency solver for improved accuracy
+- GDOP/PDOP computation for sensor geometry assessment
+- Mixed-altitude sensor network design (500m-2000m) for optimal 3D positioning
+
+### Deep Learning Pipeline
+- 1D CNN for thermal event classification (5 classes)
+- PyTorch training pipeline with early stopping and learning rate scheduling
+- 10,000+ physics-based synthetic training samples
+
+### Features Under Development
+- Interactive Streamlit dashboard for real-time track visualization
+- 3D sensor network and track position plotting
+- Multi-Hypothesis Tracking (MHT) for improved ambiguity resolution
+- Extended Kalman Filter (EKF) for nonlinear motion models
+- Additional Sensor Modalities EO/IR (Electro-Optical/Infrared) SAR (Synthetic Aperture Radar)
+
+---
+
+### Portfolio Projects
+
+###  [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
 Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sources.
 - **Tech Stack:** Python, FastAPI, Streamlit, Pandas, Plotly
 - **Highlights:** Multi-source API integration, geographic risk scoring, production error handling
 - **Business Value:** Portfolio risk assessment for real estate and insurance industries
 
-### 🔒 [Real-Time Fraud Detection System](https://github.com/michael-gurule/fraud-detection-system)
+###  [Real-Time Fraud Detection System](https://github.com/michael-gurule/fraud-detection-system)
 Production ML pipeline with cost-optimized decision thresholds delivering $474K monthly savings.
 - **Tech Stack:** Python, XGBoost, FastAPI, Streamlit
 - **Highlights:** Custom cost functions, sub-100ms API latency, interactive monitoring
 - **Business Value:** Optimized precision-recall tradeoff based on real business costs
 
-### 📊 [Marketing Attribution with Causal Inference](https://github.com/michael-gurule/marketing-attribution)
+### [Marketing Attribution with Causal Inference](https://github.com/michael-gurule/marketing-attribution)
 Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing impact.
 - **Tech Stack:** Python, scikit-learn, statsmodels, DoWhy, CausalML
 - **Highlights:** Propensity score matching, difference-in-differences, CATE estimation
@@ -40,7 +73,7 @@ Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages & Core:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -70,37 +103,28 @@ Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
-- 🎓 **MS Data Science** - In Progress
-- ☁️ **AWS Certified Data Engineer – Associate**
-- 📊 **Google Advanced Data Analytics Professional Certificate**
-
----
-
-## 💡 What I'm Learning
-
-- Advanced MLOps and model deployment patterns
-- Real-time streaming data pipelines
-- Deep learning for computer vision
-- Large language model applications
+-  **MS Data Science** - In Progress
+-  **AWS Certified Data Engineer – Associate**
+-  **Google Advanced Data Analytics Professional Certificate**
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/michaelgurule](https://linkedin.com/in/michaelgurule)
-- 📧 **Email:** michaelgurule1164@gmail.com
-- 🌐 **Portfolio:** [Coming soon]
-- 📝 **Medium:** [Michaelgurule](https://medium.com/@michaelgurule1164)
+-  **LinkedIn:** [linkedin.com/in/michaelgurule](https://linkedin.com/in/michaelgurule)
+-  **Email:** michaelgurule1164@gmail.com
+-  **Portfolio:** [Coming soon]
+-  **Medium:** [Michaelgurule](https://medium.com/@michaelgurule1164)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelgurule)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michaelgurule1164@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@michaelgurule1164)
 ---
 
-💬 *Open to opportunities in data science, ML engineering, and analytics roles. Particularly interested in companies solving real-world problems with data.*
+ *Open to opportunities in data science, ML engineering, and analytics roles. Particularly interested in companies solving real-world problems with data.*
 
 ---
 
-⭐️ From [michael-gurule](https://github.com/michael-gurule)
+ From [michael-gurule](https://github.com/michael-gurule)
