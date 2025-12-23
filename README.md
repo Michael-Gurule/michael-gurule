@@ -5,7 +5,6 @@
 Transitioning from 8 years of Fortune 500 consulting to data science roles, with a focus on production-grade ML systems and business-driven analytics.
 
 ---
-
 ## About Me
 
 - Currently building production ML systems and advanced analytics projects
@@ -17,41 +16,13 @@ Transitioning from 8 years of Fortune 500 consulting to data science roles, with
 **What sets me apart:** I combine deep technical ML skills with 8 years of Fortune 500 client experience. I don't just build models—I build production systems that deliver measurable business impact.
 
 ---
-
-### *Currently under active development*
-
-## [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
-
-A production-grade machine learning platform demonstrating advanced sensor fusion techniques for Defense applications. Integrates Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation algorithms for real-time threat detection and tracking.
-
-### Deployed Features
-
-### Multi-Sensor Fusion Engine
-- Implements Kalman filtering with covariance-weighted measurement fusion
-- Mahalanobis distance data association for multi-target tracking
-- Real-time track quality assessment and uncertainty quantification
-
-### RF Geolocation Algorithms
-- TDOA/FDOA positioning using nonlinear least-squares optimization
-- Hybrid time-frequency solver for improved accuracy
-- GDOP/PDOP computation for sensor geometry assessment
-- Mixed-altitude sensor network design (500m-2000m) for optimal 3D positioning
-
-### Deep Learning Pipeline
-- 1D CNN for thermal event classification (5 classes)
-- PyTorch training pipeline with early stopping and learning rate scheduling
-- 10,000+ physics-based synthetic training samples
-
-### Features Under Development
-- Interactive Streamlit dashboard for real-time track visualization
-- 3D sensor network and track position plotting
-- Multi-Hypothesis Tracking (MHT) for improved ambiguity resolution
-- Extended Kalman Filter (EKF) for nonlinear motion models
-- Additional Sensor Modalities EO/IR (Electro-Optical/Infrared) SAR (Synthetic Aperture Radar)
-
----
-
 ### Portfolio Projects
+
+### [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
+Advanced multi-intelligence fusion system combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking.
+- **Tech Stack:**
+- **Highlights:**
+- **Business Value:**
 
 ###  [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
 Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sources.
