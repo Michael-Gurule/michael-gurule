@@ -44,35 +44,41 @@ Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing
 
 ---
 
-##  Technical Skills
+## Tech Stack:
 
-**Languages & Core:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+[![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
 
-**ML & Data Science:**  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-00ADD8?style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Production & APIs:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Cloud & Data:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
+ 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
 
-**Specializations:**
-- Production ML Systems & MLOps
-- Causal Inference & Experimental Design
-- Business Analytics & Strategy
-- API Development & Data Engineering
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-00ADD8?style=flat)](#)
 
----
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+
 
 ##  Certifications
 
@@ -84,17 +90,10 @@ Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing
 
 ##  Let's Connect
 
--  **LinkedIn:** [linkedin.com/in/michaelgurule](https://linkedin.com/in/michaelgurule)
--  **Email:** michaelgurule1164@gmail.com
--  **Portfolio:** [Coming soon]
--  **Medium:** [Michaelgurule](https://medium.com/@michaelgurule1164)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/michaelgurule)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michaelgurule1164@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelgurule)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:michaelgurule1164@gmail.com)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@michaelgurule1164)
----
-
- *Open to opportunities in data science, ML engineering, and analytics roles. Particularly interested in companies solving real-world problems with data.*
 
 ---
 
