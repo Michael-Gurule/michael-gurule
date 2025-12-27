@@ -17,22 +17,54 @@ Senior Data Scientist & Machine Learning Engineer | 8 years of experience at the
 My background isn't just in code; it's in solving mission-critical challenges under tight consulting timelines. Having spent nearly a decade in consulting, I understand that the best algorithm is useless if it doesn't drive value or if stakeholders can't understand it. Expert in building production-grade predictive models and automated data pipelines that bridge the gap between complex business strategy and scalable technical execution.
 
 ---
-## Portfolio Projects
+# Portfolio Projects
 
-### CONSTELLATION - _UNDER DEVELOPMENT_
+## [HYPERION](https://github.com/michael-gurule/hyperion) - 🚧 IN DEVELOPMENT 🚧 — check out the progress!
+![Domain](https://img.shields.io/badge/Defense-critical?style=flat-square)
+![Domain](https://img.shields.io/badge/Aerospace-708090?style=flat-square)
+![Type](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+
+HYPERION is a sophisticated machine learning platform designed to simulate and optimize autonomous drone swarms for the detection, tracking, and interception of hypersonic threats in aerospace and defense (A&D) scenarios. The core idea revolves around leveraging Multi-Agent Reinforcement Learning (MARL) to enable decentralized coordination among UAVs (unmanned aerial vehicles) in high-stakes, dynamic environments where traditional rule-based systems fall short due to the speed (Mach 5+) and unpredictability of hypersonic vehicles.
+
+## [MERIDIAN](https://github.com/michael-gurule/meridian)
+
+MERIDIAN is a comprehensive Investment portfolio optimization system that demonstrates institutional-quality quantitative finance capabilities. 
+
+- **Highlights** The system combines multi-source market data acquisition, regime-conditional optimization, realistic transaction cost modeling, and an interactive decision support dashboard.  
+
+- **Business Value:** Unlike academic portfolio projects that optimize once and show a backtest, MERIDIAN implements production-level thinking with regime detection, transaction costs, turnover constraints, and explainable recommendations through an interactive dashboard.
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=3776AB&logoColor=ffffff)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6?style=flat&logo=scipy&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-%2340D1F5?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white) 
+![yfinance](https://img.shields.io/badge/yFinance-%23FF4B4B?style=flat)
+![Arch](https://img.shields.io/badge/Arch-%2340D1F5?style=flat)
+
+## [CONSTELLATION](https://github.com/michael-gurule/constellation)
 A LEO satellite fleet health management platform using real ISS telemetry to demonstrate predictive maintenance, anomaly detection, and operational decision support capabilities.
 
 CONSTELLATION monitors the International Space Station's attitude control and communications subsystems using real-time telemetry from NASA's public Lightstreamer feed. The system provides:
 
-- Real-time anomaly detection
-- Degradation forecasting
-- Survival analysis for component failures
-- Fault diagnosis and classification
-- Optimized maintenance scheduling
-- Operations-style monitoring dashboard
+- **Highlights** 
+Real-time anomaly detection, Degradation forecasting, Survival analysis for component failures, Fault diagnosis and classification, Optimized maintenance scheduling, Operations-style monitoring dashboard
 
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=3776AB&logoColor=ffffff)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6?style=flat&logo=scipy&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-%2340D1F5?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=flat&logo=plotly&logoColor=white)
+[![XGBoost](https://img.shields.io/badge/-XGBoost-00ADD8?style=flat)](#)
 
-### [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
+## [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
 Advanced multi-intelligence fusion system combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking.
 
 - **Highlights:** Multi-sensor Fusion, 1D Convolutional Neural Network, TDOA/FDOA algorithms, Kalman filter tracking
@@ -52,7 +84,7 @@ Advanced multi-intelligence fusion system combining Overhead Persistent Infrared
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=flat&logo=plotly&logoColor=white)
 
-###  [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
+##  [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
 Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sources.
 
 - **Highlights:** Multi-source API integration, geographic risk scoring, production error handling
@@ -70,7 +102,7 @@ Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sou
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 
-###  [Real-Time Fraud Detection System](https://github.com/michael-gurule/fraud-detection-system)
+##  [Real-Time Fraud Detection System](https://github.com/michael-gurule/fraud-detection-system)
 Production ML pipeline with cost-optimized decision thresholds delivering $474K monthly savings.
 
 - **Highlights:** Custom cost functions, sub-100ms API latency, interactive monitoring
@@ -87,7 +119,7 @@ Production ML pipeline with cost-optimized decision thresholds delivering $474K 
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-%2340D1F5?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
 
-### [Marketing Attribution with Causal Inference](https://github.com/michael-gurule/marketing-attribution)
+## [Marketing Attribution with Causal Inference](https://github.com/michael-gurule/marketing-attribution)
 Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing impact.
 
 - **Highlights:** Propensity score matching, difference-in-differences, CATE estimation
