@@ -1,7 +1,7 @@
 # Hi, I'm Michael Gurule 
 
-**Data Scientist | Former Strategy Consultant | Production ML Engineer**
-Senior Data Scientist & Machine Learning Engineer | 8 years of experience at the intersection of Data Science and Business Strategy.
+**Data Scientist | Former Strategy Consultant | Production ML Engineer**  
+8 years of experience at the intersection of Data Science and Business Strategy.
 
 ---
 ## About Me
@@ -19,19 +19,25 @@ My background isn't just in code; it's in solving mission-critical challenges un
 ---
 # Portfolio Projects
 
-## [HYPERION](https://github.com/michael-gurule/hyperion) - 🚧 IN DEVELOPMENT 🚧 — check out the progress!
-![Domain](https://img.shields.io/badge/Defense-critical?style=flat-square)
-![Domain](https://img.shields.io/badge/Aerospace-708090?style=flat-square)
-![Type](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+[![logo-full](https://github.com/user-attachments/assets/219b26a1-5c49-46e7-9a4c-9d299054eb6d)<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">](https://github.com/michael-gurule/hyperion) 
+<br>
 
 HYPERION is a sophisticated machine learning platform designed to simulate and optimize autonomous drone swarms for the detection, tracking, and interception of hypersonic threats in aerospace and defense (A&D) scenarios. The core idea revolves around leveraging Multi-Agent Reinforcement Learning (MARL) to enable decentralized coordination among UAVs (unmanned aerial vehicles) in high-stakes, dynamic environments where traditional rule-based systems fall short due to the speed (Mach 5+) and unpredictability of hypersonic vehicles.
 
-## [MERIDIAN](https://github.com/michael-gurule/meridian)
+- **Key Features** Multi-Agent Reinforcement Learning, Advanced Sensor Fusion, Realistic Physics Simulation, End-to-end Data Pipe Line, Interactive Dashboard, Comprehensive Metrics
 
-MERIDIAN is a comprehensive Investment portfolio optimization system that demonstrates institutional-quality quantitative finance capabilities. 
+![Domain](https://img.shields.io/badge/Defense-critical?style=flat-square)
+![Domain](https://img.shields.io/badge/Aerospace-708090?style=flat-square)
+![Type](https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square)
+<br>
+<br>
 
-- **Highlights** The system combines multi-source market data acquisition, regime-conditional optimization, realistic transaction cost modeling, and an interactive decision support dashboard.  
+[![logo-full](https://github.com/user-attachments/assets/8dda09ba-dce3-4890-8002-28b71430353b)](https://github.com/michael-gurule/meridian)
+<br>
 
+MERIDIAN is a comprehensive Investment portfolio optimization system that demonstrates institutional-quality quantitative finance capabilities and Machine Learning implementation. 
+
+- **Key Features** The system combines multi-source market data acquisition, regime-conditional optimization, realistic transaction cost modeling, and an interactive decision support dashboard.  
 - **Business Value:** Unlike academic portfolio projects that optimize once and show a backtest, MERIDIAN implements production-level thinking with regime detection, transaction costs, turnover constraints, and explainable recommendations through an interactive dashboard.
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -44,14 +50,14 @@ MERIDIAN is a comprehensive Investment portfolio optimization system that demons
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white) 
 ![yfinance](https://img.shields.io/badge/yFinance-%23FF4B4B?style=flat)
 ![Arch](https://img.shields.io/badge/Arch-%2340D1F5?style=flat)
+<br>
+<br>
 
-## [CONSTELLATION](https://github.com/michael-gurule/constellation)
-A LEO satellite fleet health management platform using real ISS telemetry to demonstrate predictive maintenance, anomaly detection, and operational decision support capabilities.
+[![logo-full](https://github.com/user-attachments/assets/9dbe88d0-be95-451a-8738-10419fea1159)<svg width="300" height="60" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg">](https://github.com/michael-gurule/constellation)
 
-CONSTELLATION monitors the International Space Station's attitude control and communications subsystems using real-time telemetry from NASA's public Lightstreamer feed. The system provides:
+CONSTELLATION is a LEO satellite fleet health management ML platform using real ISS telemetry from NASA's public Lightstreamer to demonstrate predictive maintenance, anomaly detection, and operational support capabilities.
 
-- **Highlights** 
-Real-time anomaly detection, Degradation forecasting, Survival analysis for component failures, Fault diagnosis and classification, Optimized maintenance scheduling, Operations-style monitoring dashboard
+- **Key Features** Real-time anomaly detection, Degradation forecasting, Survival analysis for component failures, Fault diagnosis and classification, Optimized maintenance scheduling, Operations-style monitoring dashboard
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=3776AB&logoColor=ffffff)
@@ -63,9 +69,12 @@ Real-time anomaly detection, Degradation forecasting, Survival analysis for comp
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=flat&logo=plotly&logoColor=white)
 [![XGBoost](https://img.shields.io/badge/-XGBoost-00ADD8?style=flat)](#)
+<br>
+<br>
 
-## [SENTINEL Multi-Intel Platform](https://github.com/michael-gurule/sentinel-multi-intel-platform)
-Advanced multi-intelligence fusion system combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking.
+[![logo-full](https://github.com/user-attachments/assets/b8b9d942-7ed4-4919-96be-9d4a925e8e2f)](https://github.com/michael-gurule/sentinel-multi-intel-platform)
+
+SENTINEL is an advanced multi-intelligence fusion ML system designed for Aerospace & Defense applications, combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking. Demonstrating expertise in sensor fusion, geolocation algorithms, and multi-sensor target tracking. 
 
 - **Highlights:** Multi-sensor Fusion, 1D Convolutional Neural Network, TDOA/FDOA algorithms, Kalman filter tracking
 - **Business Value:** Real-time event detection & classification, GDOP Monitoring, Uncertainty qualification.
@@ -83,12 +92,15 @@ Advanced multi-intelligence fusion system combining Overhead Persistent Infrared
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-%2340D1F5?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=flat&logo=plotly&logoColor=white)
+<br>
+<br>
 
-##  [Natural Disaster Risk Intelligence Platform](https://github.com/michael-gurule/disaster-risk-platform)
-Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sources.
+[![logo-full](https://github.com/user-attachments/assets/b02d2605-f839-41a9-a0b9-0ea5c479c09a)](https://github.com/michael-gurule/disaster-risk-platform)
 
-- **Highlights:** Multi-source API integration, geographic risk scoring, production error handling
-- **Business Value:** Portfolio risk assessment for real estate and insurance industries
+**GAIA - Natural Disaster Risk Assesment:** GAIA is data-rich multi-hazard risk assessment platform designed to aggregate historical data from USGS (Eartquakes), NASA Firms (Wildfires), and NOAA (Hurricane & Tornado) to calculate a comprehensive risk exposure composite for a geographic region. GAIA provides the risk data that many finacial service companies depend on to make informed business decisions. 
+
+- **Highlights:** Multi-source API integration, Composite Risk Algorithm, Geographic/Spatial analysis, Interactive Dashboard
+- **Business Value:** Portfolio risk assesment detailing elevated risk exposure for real estate and insurance industries
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=3776AB&logoColor=ffffff)
@@ -101,12 +113,15 @@ Real-time multi-hazard risk assessment integrating USGS, NASA, and NOAA data sou
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+<br>
+<br>
 
-##  [Real-Time Fraud Detection System](https://github.com/michael-gurule/fraud-detection-system)
-Production ML pipeline with cost-optimized decision thresholds delivering $474K monthly savings.
+[![logo-full](https://github.com/user-attachments/assets/f08a18d5-60e3-4d1a-9c3c-be5ba9468d1a)](https://github.com/michael-gurule/fraud-detection-system)
 
-- **Highlights:** Custom cost functions, sub-100ms API latency, interactive monitoring
-- **Business Value:** Optimized precision-recall tradeoff based on real business costs
+CERBERUS is a real-time Fraud Detection platform for the financial service industry. CERBERUS goes beyond just analyzing and predicting fraudulent transactions - the platform implements Machine Learning to weigh the net finacial implications between a False Negative detection and a False Positive detection. CERBERUS model aims to optimize the balance between net business benefit and customer friction. 
+
+- **Highlights:** Cost-function optimization, Model tracks drift, performance metrics, and feature importance. Sub-100ms API latency, Interactive monitoring dashboard.
+- **Business Value:** Financial institutions lose **billions annually** to credit card fraud, but aggressive fraud detection creates friction for legitimate customers. This system addresses those critical challenges:
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=3776AB&logoColor=ffffff)
@@ -118,12 +133,15 @@ Production ML pipeline with cost-optimized decision thresholds delivering $474K 
 ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=flat&logo=plotly&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-%2340D1F5?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
+<br>
+<br>
 
-## [Marketing Attribution with Causal Inference](https://github.com/michael-gurule/marketing-attribution)
-Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing impact.
+[![logo-full](https://github.com/user-attachments/assets/ec1b2caf-fd36-4c27-ad00-5b6491bbcb87)](https://github.com/michael-gurule/marketing-attribution)
 
-- **Highlights:** Propensity score matching, difference-in-differences, CATE estimation
-- **Business Value:** Separates correlation from causation in marketing ROI analysis
+CIPHER is an advanced Marketing Attribution platform, implementing Causal Inference to answer the fundamental question: *"What would have happend WITHOUT this marketing channel".* Companies waste billions on marketing channels that don't actually drive incremental revenue. CIPHER demonstrates how to measure **true causal effects** using advanced statistical methods when A/B testing isn't feasible to measure true incremental marketing impact.
+
+- **Highlights:** Propensity score matching, difference-in-differences, Uplift Modeling, and CATE estimation
+- **Business Value:** ROI optimization, budget allocation, segment targeting
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=3776AB&logoColor=ffffff)
@@ -135,6 +153,8 @@ Advanced causal methods (PSM, DiD, Uplift) to measure true incremental marketing
 ![Plotly](https://img.shields.io/badge/Plotly-%237A76FF?style=flat&logo=plotly&logoColor=white)
 [![XGBoost](https://img.shields.io/badge/-XGBoost-00ADD8?style=flat)](#)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=plotly&logoColor=white)
+<br>
+<br>
 
 ---
 
