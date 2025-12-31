@@ -1,6 +1,6 @@
 # Hi, I'm Michael Gurule 
 
-**Data Scientist | Former Strategy Consultant | Production ML Engineer**  
+**Data Scientist | Production ML Engineer**  
 8 years of experience at the intersection of Data Science and Business Strategy.
 
 ---
@@ -8,7 +8,6 @@
 
 - Currently building production ML systems and advanced analytics projects
 - MS Data Science + AWS Certified Data Engineer + Google Advanced Data Analytics
-- Former Senior Strategy Consultant at Sedgwick and JS Held
 - Based in Colorado
 - Seeking Senior Data Scientist / ML Engineer roles
 
