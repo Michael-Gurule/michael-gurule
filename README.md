@@ -165,7 +165,10 @@ CIPHER is an advanced Marketing Attribution platform, implementing Causal Infere
 
 ---
 
-##  Let's Connect
+Let's Connect
+
+### Michael Gurule
+**Data Science | ML Engineering**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/michaelgurule)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@michaelgurule1164)
@@ -174,12 +177,9 @@ CIPHER is an advanced Marketing Attribution platform, implementing Causal Infere
 
 
 ---
+
 <p align="center">
-<sub>BUILT BY</sub> 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ecb66c61-85c5-4d24-aaa3-99ddf2cd33cf" alt="MICHAEL GURULE">
-<p align="center">
-<b>Data Scientist | Machine Learning Engineer</b>
+  <img src="https://github.com/user-attachments/assets/0d69bf96-335b-4160-a202-780e8bad2d45" alt="MICHAEL GURULE">
 </p>
 
 
