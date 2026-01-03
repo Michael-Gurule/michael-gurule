@@ -18,7 +18,7 @@ My background isn't just in code; it's in solving mission-critical challenges un
 ---
 # Portfolio Projects
 
-[![logo-full](https://github.com/user-attachments/assets/219b26a1-5c49-46e7-9a4c-9d299054eb6d)<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">](https://github.com/michael-gurule/hyperion) 
+<img width="300"  alt="HYPERION" src="https://github.com/user-attachments/assets/f24655b8-5b67-4dfd-b9bc-9175182c3817" />
 <br>
 
 HYPERION is a sophisticated machine learning platform designed to simulate and optimize autonomous drone swarms for the detection, tracking, and interception of hypersonic threats in aerospace and defense (A&D) scenarios. The core idea revolves around leveraging Multi-Agent Reinforcement Learning (MARL) to enable decentralized coordination among UAVs (unmanned aerial vehicles) in high-stakes, dynamic environments where traditional rule-based systems fall short due to the speed (Mach 5+) and unpredictability of hypersonic vehicles.
