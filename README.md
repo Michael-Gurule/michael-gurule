@@ -42,7 +42,9 @@ HYPERION is a sophisticated machine learning platform designed to simulate and o
 <br>
 <br>
 
-[![logo-full](https://github.com/user-attachments/assets/9dbe88d0-be95-451a-8738-10419fea1159)<svg width="300" height="60" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg">](https://github.com/michael-gurule/constellation)
+<img width="400" alt="CONSTELLATION" src="https://github.com/user-attachments/assets/9dbe88d0-be95-451a-8738-10419fea1159" />
+<br>
+<br>
 
 CONSTELLATION is a LEO satellite fleet health management ML platform using real ISS telemetry from NASA's public Lightstreamer to demonstrate predictive maintenance, anomaly detection, and operational support capabilities.
 
@@ -61,7 +63,10 @@ CONSTELLATION is a LEO satellite fleet health management ML platform using real 
 <br>
 <br>
 
-[![logo-full](https://github.com/user-attachments/assets/b8b9d942-7ed4-4919-96be-9d4a925e8e2f)](https://github.com/michael-gurule/sentinel)
+<img width="300" alt="SENTINEL" src="https://github.com/user-attachments/assets/84043002-a02f-4837-9d49-f3390b61176a" />
+<br>
+<br>
+
 
 SENTINEL is an advanced multi-intelligence fusion ML system designed for Aerospace & Defense applications, combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking. Demonstrating expertise in sensor fusion, geolocation algorithms, and multi-sensor target tracking. 
 
