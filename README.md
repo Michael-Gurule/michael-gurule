@@ -15,11 +15,22 @@
 
 My background isn't just in code; it's in solving mission-critical challenges under tight consulting timelines. Having spent nearly a decade in consulting, I understand that the best algorithm is useless if it doesn't drive value or if stakeholders can't understand it. Expert in building production-grade predictive models and automated data pipelines that bridge the gap between complex business strategy and scalable technical execution.
 
+
+
+
+
+
+
+
 ---
 # Portfolio Projects
-
-<img width="300"  alt="HYPERION" src="https://github.com/user-attachments/assets/f24655b8-5b67-4dfd-b9bc-9175182c3817" />
 <br>
+<br>
+
+<img width="300" alt="HYPERION" src="https://github.com/user-attachments/assets/6ae91cdd-dd78-403f-a506-df7f2e51f669" />
+<br>
+<br>
+
 
 HYPERION is a sophisticated machine learning platform designed to simulate and optimize autonomous drone swarms for the detection, tracking, and interception of hypersonic threats in aerospace and defense (A&D) scenarios. The core idea revolves around leveraging Multi-Agent Reinforcement Learning (MARL) to enable decentralized coordination among UAVs (unmanned aerial vehicles) in high-stakes, dynamic environments where traditional rule-based systems fall short due to the speed (Mach 5+) and unpredictability of hypersonic vehicles.
 
