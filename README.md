@@ -84,8 +84,10 @@ SENTINEL is an advanced multi-intelligence fusion ML system designed for Aerospa
 <br>
 <br>
 
-[![logo-full](https://github.com/user-attachments/assets/8dda09ba-dce3-4890-8002-28b71430353b)](https://github.com/michael-gurule/meridian)
+<img width="300" alt="MERIDIAN" src="https://github.com/user-attachments/assets/98acabc0-8f12-4cb4-9085-30cd78c7d521" /> 
 <br>
+<br>
+
 
 MERIDIAN is a comprehensive Investment portfolio optimization system that demonstrates institutional-quality quantitative finance capabilities and Machine Learning implementation. 
 
