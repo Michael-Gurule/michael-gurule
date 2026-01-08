@@ -1,4 +1,3 @@
-
 <h1 align="center">WELCOME</h1>
 <br>
 <br>
@@ -184,8 +183,10 @@ Let's Connect
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d69bf96-335b-4160-a202-780e8bad2d45" alt="MICHAEL GURULE">
+<p align="center"> 
+<img  width="450" alt="Designed By" src="https://github.com/user-attachments/assets/12ddff9c-b9b6-4e69-ace0-5cbc94f1a3ad"> 
 </p>
+
+
 
 
