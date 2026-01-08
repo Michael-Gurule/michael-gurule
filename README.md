@@ -1,28 +1,16 @@
-# Hi, I'm Michael Gurule 
 
-**Data Scientist | Production ML Engineer**  
-8 years of experience at the intersection of Data Science and Business Strategy.
-
----
-## About Me
-
-- Currently building production ML systems and advanced analytics projects
-- MS Data Science + AWS Certified Data Engineer + Google Advanced Data Analytics
-- Based in Colorado
-- Seeking Senior Data Scientist / ML Engineer roles
-
-**What sets me apart:** 
-
-My background isn't just in code; it's in solving mission-critical challenges under tight consulting timelines. Having spent nearly a decade in consulting, I understand that the best algorithm is useless if it doesn't drive value or if stakeholders can't understand it. Expert in building production-grade predictive models and automated data pipelines that bridge the gap between complex business strategy and scalable technical execution.
+<h1 align="center">WELCOME</h1>
+<br>
+<br>
 
 
 
 
+![centered_transparent](https://github.com/user-attachments/assets/b1a93012-17c8-4c6d-9de1-59754b7054fd)
+<br>
+<br>
 
 
-
-
----
 # Portfolio Projects
 <br>
 <br>
