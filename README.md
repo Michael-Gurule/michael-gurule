@@ -8,12 +8,14 @@
 ![centered_transparent](https://github.com/user-attachments/assets/b1a93012-17c8-4c6d-9de1-59754b7054fd)
 <br>
 <br>
+<br>
 
 
 
-<h1 align="center">PORTFOLIO PROJECTS</h1>
+<h2 align="center">Production Systems</h2>
 <br>
 <br>
+
 <p align="center">
   <a href="https://github.com/michael-gurule/hyperion">
     <img width="300" alt="HYPERION" src="https://github.com/user-attachments/assets/6ae91cdd-dd78-403f-a506-df7f2e51f669"/><a/>
@@ -21,14 +23,23 @@
 <br>
 
 
-HYPERION is a sophisticated machine learning platform designed to simulate and optimize autonomous drone swarms for the detection, tracking, and interception of hypersonic threats in aerospace and defense (A&D) scenarios. The core idea revolves around leveraging Multi-Agent Reinforcement Learning (MARL) to enable decentralized coordination among UAVs (unmanned aerial vehicles) in high-stakes, dynamic environments where traditional rule-based systems fall short due to the speed (Mach 5+) and unpredictability of hypersonic vehicles.
 
-- **Key Features** Multi-Agent Reinforcement Learning, Advanced Sensor Fusion, Realistic Physics Simulation, End-to-end Data Pipe Line, Interactive Dashboard, Comprehensive Metrics
+**HYPERION:** A production-grade Multi-Agent Reinforcement Learning (MARL) system that coordinates autonomous UAV swarms for hypersonic threat detection, tracking and interception in high-speed, GPS-denied environments. Built for aerospace and defense applications, this project showcases MLOps best practices, distributed systems design, and advanced reinforcement learning techniques applicable to autonomous systems challenges.
+
+**Key Features**
+
+- **Multi-Agent Reinforcement Learning:** Implemented MAPPO (Multi-Agent Proximal Policy Optimization) to enable 20+ autonomous agents to coordinate interception strategies without centralized control. Graph Neural Networks handle dynamic agent communication patterns.
+- **Physics-Informed Simulation:** Integrated Physics-Informed Neural Networks (PINNs) to generate realistic hypersonic trajectories (Mach 5+) with accurate aerodynamic modeling, providing high-fidelity training environments.
+- **Sensor Fusion Architecture:** Combines RF positioning (TDOA/FDOA), thermal imaging, and telemetry streams using Extended Kalman Filtering for robust threat tracking in contested environments.
+- **Production-Grade Implementation**
+Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | Interactive Dashboard
 <br>
+
 
 <div align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
     <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
     <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
@@ -42,41 +53,17 @@ HYPERION is a sophisticated machine learning platform designed to simulate and o
     <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Pydantic-%23E92063?style=for-the-badge&logo=pydantics&logoColor=white">
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
 </div>
 <br>
 <br>
-
-
-
-<p align="center">
-  <a href="https://github.com/michael-gurule/constellation">
-    <img width="400" alt="CONSTELLATION" src="https://github.com/user-attachments/assets/9dbe88d0-be95-451a-8738-10419fea1159"/><a/>
-<br>
 <br>
 
-
-CONSTELLATION is a LEO satellite fleet health management ML platform using real ISS telemetry from NASA's public Lightstreamer to demonstrate predictive maintenance, anomaly detection, and operational support capabilities.
-
-- **Key Features** Real-time anomaly detection, Degradation forecasting, Survival analysis for component failures, Fault diagnosis and classification, Optimized maintenance scheduling, Operations-style monitoring dashboard
-<br>
-
-<div align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff">
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
-    <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
-    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/-XGBoost-00ADD8?style=for-the-badge&logoColor=white">
-</div>
-<br>
-<br>
 
 
 
@@ -87,30 +74,38 @@ CONSTELLATION is a LEO satellite fleet health management ML platform using real 
 <br>
 
 
-SENTINEL is an advanced multi-intelligence fusion ML system designed for Aerospace & Defense applications, combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking. Demonstrating expertise in sensor fusion, geolocation algorithms, and multi-sensor target tracking. 
 
-- **Highlights:** Multi-sensor Fusion, 1D Convolutional Neural Network, TDOA/FDOA algorithms, Kalman filter tracking
-- **Business Value:** Real-time event detection & classification, GDOP Monitoring, Uncertainty qualification.
+**SENTINEL:** A production-grade Sensor Fusion system combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking. Implementing advanced signal processing, SENTINEL showcases multi-sensor fusion fundamentals, signal processing expertise, and multi-modal data integration relevant to intelligence and defense applications.
+
+**Key Features**
+
+- **Multi-Sensor Fusion Architecture:** Implemented Extended Kalman Filtering to fuse asynchronous data streams from RF positioning (TDOA/FDOA), thermal imaging arrays, and telemetry feeds. Handles varied sensor hardware profiles with robust error handling for missing or degraded signals.
+- **RF Positioning System:** Developed Time Difference of Arrival (TDOA) and Frequency Difference of Arrival (FDOA) algorithms for passive emitter location. Achieves high-accuracy triangulation using multiple receiver stations without requiring active transmission.
+- **Real-Time Processing Pipeline:** Architected asynchronous data ingestion supporting high-frequency sensor streams (100+ Hz thermal, intermittent RF bursts) with sub-second latency for threat detection and track updates.
 <br>
+
 
 <div align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
     <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff">
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
     <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
+    <img src="https://img.shields.io/badge/GeoPandas-%23139C5A?style=for-the-badge&logo=geopandas&logoColor=white">
     <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
     <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
+    <img src="https://img.shields.io/badge/-MatPlotLib-D82C20?style=for-the-badge">
     <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white">
     <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
     <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 <br>
 <br>
+<br>
+
+
 
 
 <p align="center">
@@ -120,11 +115,17 @@ SENTINEL is an advanced multi-intelligence fusion ML system designed for Aerospa
 <br>
 
 
-MERIDIAN is a comprehensive Investment portfolio optimization system that demonstrates institutional-quality quantitative finance capabilities and Machine Learning implementation. 
 
-- **Key Features** The system combines multi-source market data acquisition, regime-conditional optimization, realistic transaction cost modeling, and an interactive decision support dashboard.  
-- **Business Value:** Unlike academic portfolio projects that optimize once and show a backtest, MERIDIAN implements production-level thinking with regime detection, transaction costs, turnover constraints, and explainable recommendations through an interactive dashboard.
+**MERIDIAN:** A Quantitative Portfolio Optimization Engine implementing modern portfolio theory for dynamic asset allocation and risk management. Built for quantitative investment management, this project showcases financial engineering expertise, optimization techniques, and data engineering practices relevant to fintech, asset management, and proprietary trading firms.
+
+**Key Features**
+
+- **Multi-Strategy Optimization:** Implemented Mean-Variance Optimization (MVO) and Risk Parity allocation strategies using CVXPY for convex optimization. Solves for optimal asset weights under complex constraint specifications including sector limits, turnover costs, and regulatory requirements.
+- **Real-Time Market Integration:** Engineered data ingestion pipeline connecting Yahoo Finance API to stream live market data, pricing feeds, and corporate actions. Processes multi-asset class data (equities, fixed income, commodities) into standardized formats for model consumption.
+- **Advanced Risk Modeling:** Built correlation analysis framework incorporating rolling windows, exponential weighting, and regime detection to capture time-varying relationships between assets. Generates dynamic covariance matrices for accurate risk quantification across market conditions.
+- **Dynamic Rebalancing Logic:** Developed trigger-based rebalancing algorithms that balance transaction costs against drift from target allocations. Incorporates tax-loss harvesting opportunities and liquidity constraints for practical implementation.
 <br>
+
 
 <div align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
@@ -133,6 +134,7 @@ MERIDIAN is a comprehensive Investment portfolio optimization system that demons
     <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
     <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+    <img src="https://img.shields.io/badge/-MatPlotLib-D82C20?style=for-the-badge">
     <img src="https://img.shields.io/badge/yFinance-%23FF4B4B?style=for-the-badge&logo=yfinance&logoColor=white">
     <img src="https://img.shields.io/badge/Arch-%2340D1F5?style=for-the-badge&logo=Arch&logoColor=white">
     <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge">
@@ -140,99 +142,50 @@ MERIDIAN is a comprehensive Investment portfolio optimization system that demons
 </div>
 <br>
 <br>
+<br>
+
+
 
 
 <p align="center">
-   <a href="https://github.com/michael-gurule/gaia">
-    <img width="280" alt="GAIA" src="https://github.com/user-attachments/assets/b02d2605-f839-41a9-a0b9-0ea5c479c09a"/><a/>
+  <a href="https://github.com/michael-gurule/constellation">
+    <img width="400" alt="CONSTELLATION" src="https://github.com/user-attachments/assets/9dbe88d0-be95-451a-8738-10419fea1159"/><a/>
 <br>
 <br>
-      
-**GAIA - Natural Disaster Risk Assesment:** GAIA is data-rich multi-hazard risk assessment platform designed to aggregate historical data from USGS (Eartquakes), NASA Firms (Wildfires), and NOAA (Hurricane & Tornado) to calculate a comprehensive risk exposure composite for a geographic region. GAIA provides the risk data that many finacial service companies depend on to make informed business decisions. 
 
-- **Highlights:** Multi-source API integration, Composite Risk Algorithm, Geographic/Spatial analysis, Interactive Dashboard
-- **Business Value:** Portfolio risk assesment detailing elevated risk exposure for real estate and insurance industries
+
+
+**CONSTELLATION:** A production-grade predictive maintenance platform for Low Earth Orbit (LEO) satellite constellation monitoring. Combines survival analysis, anomaly detection, and degradation forecasting to predict subsystem failures and optimize maintenance scheduling. Built for space operations management, this project showcases time-series forecasting, survival analysis, cloud-native MLOps, and predictive maintenance techniques relevant to aerospace, defense, critical infrastructure management, and industrial IoT applications.
+
+**Key Features**
+
+- **Multi-Subsystem Health Monitoring:** Engineered predictive models for four critical satellite systems: power (battery degradation, solar panel efficiency), thermal (component temperature anomalies, radiator performance), attitude control (reaction wheel bearing wear), and communications (transponder degradation, antenna drift).
+- **Survival Analysis Framework:** Implemented Cox proportional hazards and Weibull analysis for time-to-failure prediction, providing probabilistic failure forecasts with confidence intervals. Enables proactive maintenance scheduling before critical component loss.
+- **Advanced Anomaly Detection:** Deployed Isolation Forest and Autoencoder models to detect unusual telemetry patterns in real-time, flagging deviations from operational baselines before cascading failures occur. Handles high-dimensional sensor data across multiple satellites simultaneously.
+- **Degradation Forecasting Pipeline:** Built LSTM and Temporal Fusion Transformer models to predict performance decline trajectories for solar panels, batteries, and mechanical systems. Captures long-term trends while accounting for orbital environment effects (thermal cycling, radiation exposure).
 <br>
+
 
 <div align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
     <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
-    <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=fff">
     <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
     <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
     <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/-XGBoost-00ADD8?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/Pydantic-%23E92063?style=for-the-badge&logo=pydantics&logoColor=white">
-    <img src="https://img.shields.io/badge/GeoPandas-%23139C5A?style=for-the-badge&logo=geopandas&logoColor=white">
-    <img src="https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white">
+    <img src="https://img.shields.io/badge/-StatsModels-6B007B?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Vega_Altair-FFA500?style=for-the-badge">
+    <img src=" https://img.shields.io/badge/-Seaborn-00ADD8?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white">
     <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-</div>
-<br>
-<br>
-
-
-<p align="center">
-   <a href="https://github.com/michael-gurule/cerberus">
-    <img width="300" alt="CERBERUS" src="https://github.com/user-attachments/assets/f08a18d5-60e3-4d1a-9c3c-be5ba9468d1a"/><a/>
-<br>
-<br>
-
-CERBERUS is a real-time Fraud Detection platform for the financial service industry. CERBERUS goes beyond just analyzing and predicting fraudulent transactions - the platform implements Machine Learning to weigh the net finacial implications between a False Negative detection and a False Positive detection. CERBERUS model aims to optimize the balance between net business benefit and customer friction. 
-
-- **Highlights:** Cost-function optimization, Model tracks drift, performance metrics, and feature importance. Sub-100ms API latency, Interactive monitoring dashboard.
-- **Business Value:** Financial institutions lose **billions annually** to credit card fraud, but aggressive fraud detection creates friction for legitimate customers. This system addresses those critical challenges:
-<br>
-
-
-<div align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
-    <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
-    <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/-XGBoost-00ADD8?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
-</div>
-<br>
-<br>
-
-
-<p align="center">
-   <a href="https://github.com/michael-gurule/cipher">
-    <img width="280" alt="CIPHER" src="https://github.com/user-attachments/assets/ec1b2caf-fd36-4c27-ad00-5b6491bbcb87"/><a/>
-<br>
-<br>
-
-CIPHER is an advanced Marketing Attribution platform, implementing Causal Inference to answer the fundamental question: *"What would have happend WITHOUT this marketing channel".* Companies waste billions on marketing channels that don't actually drive incremental revenue. CIPHER demonstrates how to measure **true causal effects** using advanced statistical methods when A/B testing isn't feasible to measure true incremental marketing impact.
-
-- **Highlights:** Propensity score matching, difference-in-differences, Uplift Modeling, and CATE estimation
-- **Business Value:** ROI optimization, budget allocation, segment targeting
-<br>
-
-<div align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
-    <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
-    <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
     <img src="https://img.shields.io/badge/-XGBoost-00ADD8?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
 </div>
 <br>
 <br>
 <br>
+
 
 
 
