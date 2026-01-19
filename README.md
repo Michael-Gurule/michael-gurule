@@ -3,14 +3,11 @@
 <br>
 
 
-
-
-![centered_transparent](https://github.com/user-attachments/assets/b1a93012-17c8-4c6d-9de1-59754b7054fd)
 <br>
 <br>
 <br>
 
-
+<img width="3313" height="1092" alt="Github-Profile-Header" src="https://github.com/user-attachments/assets/6902b792-e2de-457b-8363-4802ce6bff7f" />
 
 <h2 align="center">Production Systems</h2>
 <br>
@@ -218,9 +215,9 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
 ---
 
 <p align="center"> 
-<img  width="450" alt="Designed By" src="https://github.com/user-attachments/assets/12ddff9c-b9b6-4e69-ace0-5cbc94f1a3ad"> 
+  
+<img width="450" alt="Github-Profile-Footer" src="https://github.com/user-attachments/assets/653bdf43-f5e6-4ace-a5ee-502d994bf43a" />
+
 </p>
-
-
 
 
