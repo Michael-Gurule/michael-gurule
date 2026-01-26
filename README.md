@@ -45,14 +45,7 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
     <img src="https://custom-icon-badges.demolab.com/badge/PettingZoo-167C80?style=for-the-badge&logo=PettingZoo&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Gymnasium-43E55E?style=for-the-badge&logo=Gymnasium&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Supersuit-1A1928?style=for-the-badge&logo=Supersuit&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
-    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white">
-    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white">
-    <img src="https://custom-icon-badges.demolab.com/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://custom-icon-badges.demolab.com/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
 </div>
