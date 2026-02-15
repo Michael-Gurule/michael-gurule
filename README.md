@@ -97,7 +97,7 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
 
 <p align="center">
    <a href="https://github.com/michael-gurule/meridian">
-    <img width="300" alt="MERIDIAN" src="https://github.com/user-attachments/assets/98acabc0-8f12-4cb4-9085-30cd78c7d521"/><a/> 
+    <img width="300" height="auto" alt="Meridian_logo" src="https://github.com/user-attachments/assets/744c374e-7c49-4ef1-b01a-4e5add77e190" />
 <br>
 <br>
 
