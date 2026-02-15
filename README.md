@@ -54,41 +54,39 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
 <br>
 
 
-
-
 <p align="center">
-   <a href="https://github.com/michael-gurule/sentinel">
-    <img width="300" alt="SENTINEL" src="https://github.com/user-attachments/assets/84043002-a02f-4837-9d49-f3390b61176a"/><a/>
+   <a href="https://github.com/michael-gurule/adelon">
+     <img width="300" alt="Adelon_logo" src="https://github.com/user-attachments/assets/ac883aef-5c10-427f-8708-d9c8fb92b76a" />
+    
 <br>
 <br>
 
 
-
-**SENTINEL:** A production-grade Sensor Fusion system combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking. Implementing advanced signal processing, SENTINEL showcases multi-sensor fusion fundamentals, signal processing expertise, and multi-modal data integration relevant to intelligence and defense applications.
+**ADELON:** (from the Greek adēlon: "the non-evident") is a production-grade analytics engine designed to uncover the hidden causal relationships between marketing spend and business outcomes. Moving beyond traditional correlation-based attribution, Adelon leverages Bayesian Machine Learning and Causal Inference to provide a robust, uncertainty-aware view of marketing ROI.
 
 **Key Features**
 
-- **Multi-Sensor Fusion Architecture:** Implemented Extended Kalman Filtering to fuse asynchronous data streams from RF positioning (TDOA/FDOA), thermal imaging arrays, and telemetry feeds. Handles varied sensor hardware profiles with robust error handling for missing or degraded signals.
-- **RF Positioning System:** Developed Time Difference of Arrival (TDOA) and Frequency Difference of Arrival (FDOA) algorithms for passive emitter location. Achieves high-accuracy triangulation using multiple receiver stations without requiring active transmission.
-- **Real-Time Processing Pipeline:** Architected asynchronous data ingestion supporting high-frequency sensor streams (100+ Hz thermal, intermittent RF bursts) with sub-second latency for threat detection and track updates.
+- **Causal Structure Discovery:** Utilizes Directed Acyclic Graphs (DAGs) to map the flow of influence across channels, accounting for confounders and "halo effects" that standard linear models miss.
+- **Bayesian Inference Engine:** Built on a probabilistic architecture that incorporates "priors" (historical industry knowledge) and quantifies uncertainty, allowing for more reliable forecasting in volatile markets.
+- **Latent Variable Modeling:** Identifies and adjusts for "Adēla" (hidden factors) such as seasonality, economic shifts, and baseline brand equity to isolate the true incremental lift of every dollar spent.
+- **Automated Diminishing Returns Tracking:** Dynamically calculates saturation curves (Hill functions) to identify the exact point of media fatigue and optimize budget reallocation in real-time.
+- **Counterfactual Simulation:** A "What-If" sandbox that uses causal logic to predict the revenue impact of shifting budgets between channels before a single cent is committed.
+
 <br>
 
 
 <div align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
     <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/ArviZ-4DABCF?logo=ArviZ&style=for-the-badge&logoColor=fff">
+    <img src="https://img.shields.io/badge/PyTensor-2CA5E0?style=for-the-badge&logo=PyTensor&logoColor=white">
     <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
-    <img src="https://img.shields.io/badge/GeoPandas-%23139C5A?style=for-the-badge&logo=geopandas&logoColor=white">
     <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/-MatPlotLib-D82C20?style=for-the-badge">
-    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white">
-    <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
-    <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/PyMC-%23FF4B4B?style=for-the-badge&logo=PyMC&logoColor=white">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br>
 <br>
@@ -135,13 +133,51 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
 
 
 
+<p align="center">
+   <a href="https://github.com/michael-gurule/sentinel">
+    <img width="300" alt="SENTINEL" src="https://github.com/user-attachments/assets/84043002-a02f-4837-9d49-f3390b61176a"/><a/>
+<br>
+<br>
+
+
+
+**SENTINEL:** A production-grade Sensor Fusion system combining Overhead Persistent Infrared (OPIR) thermal detection with Radio Frequency (RF) geolocation for real-time threat detection and tracking. Implementing advanced signal processing, SENTINEL showcases multi-sensor fusion fundamentals, signal processing expertise, and multi-modal data integration relevant to intelligence and defense applications.
+
+**Key Features**
+
+- **Multi-Sensor Fusion Architecture:** Implemented Extended Kalman Filtering to fuse asynchronous data streams from RF positioning (TDOA/FDOA), thermal imaging arrays, and telemetry feeds. Handles varied sensor hardware profiles with robust error handling for missing or degraded signals.
+- **RF Positioning System:** Developed Time Difference of Arrival (TDOA) and Frequency Difference of Arrival (FDOA) algorithms for passive emitter location. Achieves high-accuracy triangulation using multiple receiver stations without requiring active transmission.
+- **Real-Time Processing Pipeline:** Architected asynchronous data ingestion supporting high-frequency sensor streams (100+ Hz thermal, intermittent RF bursts) with sub-second latency for threat detection and track updates.
+<br>
+
+
+<div align="center">
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff">
+    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
+    <img src="https://img.shields.io/badge/GeoPandas-%23139C5A?style=for-the-badge&logo=geopandas&logoColor=white">
+    <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+    <img src="https://img.shields.io/badge/Plotly-%237A76FF?style=for-the-badge&logo=plotly&logoColor=white">
+    <img src="https://img.shields.io/badge/-MatPlotLib-D82C20?style=for-the-badge">
+    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/Folium-%2377B829?style=for-the-badge&logo=folium&logoColor=white">
+    <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge&logo=uvicorn&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
+</div>
+<br>
+<br>
+<br>
+
+
 
 <p align="center">
   <a href="https://github.com/michael-gurule/constellation">
     <img width="400" alt="CONSTELLATION" src="https://github.com/user-attachments/assets/9dbe88d0-be95-451a-8738-10419fea1159"/><a/>
 <br>
 <br>
-
 
 
 **CONSTELLATION:** A production-grade predictive maintenance platform for Low Earth Orbit (LEO) satellite constellation monitoring. Combines survival analysis, anomaly detection, and degradation forecasting to predict subsystem failures and optimize maintenance scheduling. Built for space operations management, this project showcases time-series forecasting, survival analysis, cloud-native MLOps, and predictive maintenance techniques relevant to aerospace, defense, critical infrastructure management, and industrial IoT applications.
