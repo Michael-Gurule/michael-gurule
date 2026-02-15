@@ -55,7 +55,7 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
 
 
 <p align="center">
-   <a href="https://github.com/michael-gurule/adelon">
+   <a href="https://github.com/michael-gurule/adelon_mmm">
      <img width="300" alt="Adelon_logo" src="https://github.com/user-attachments/assets/ac883aef-5c10-427f-8708-d9c8fb92b76a" />
     
 <br>
