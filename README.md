@@ -12,46 +12,6 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://github.com/michael-gurule/hyperion">
-    <img width="300" alt="HYPERION" src="https://github.com/user-attachments/assets/6ae91cdd-dd78-403f-a506-df7f2e51f669"/><a/>
-<br>
-<br>
-
-
-
-**HYPERION:** A production-grade Multi-Agent Reinforcement Learning (MARL) system that coordinates autonomous UAV swarms for hypersonic threat detection, tracking and interception in high-speed, GPS-denied environments. Built for aerospace and defense applications, this project showcases MLOps best practices, distributed systems design, and advanced reinforcement learning techniques applicable to autonomous systems challenges.
-
-**Key Features**
-
-- **Multi-Agent Reinforcement Learning:** Implemented MAPPO (Multi-Agent Proximal Policy Optimization) to enable 20+ autonomous agents to coordinate interception strategies without centralized control. Graph Neural Networks handle dynamic agent communication patterns.
-- **Physics-Informed Simulation:** Integrated Physics-Informed Neural Networks (PINNs) to generate realistic hypersonic trajectories (Mach 5+) with accurate aerodynamic modeling, providing high-fidelity training environments.
-- **Sensor Fusion Architecture:** Combines RF positioning (TDOA/FDOA), thermal imaging, and telemetry streams using Extended Kalman Filtering for robust threat tracking in contested environments.
-- **Production-Grade Implementation**
-Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | Interactive Dashboard
-<br>
-
-
-<div align="center">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
-    <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/PyG-3C2179?style=for-the-badge&logo=pyg&logoColor=white">
-    <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white">
-    <img src="https://custom-icon-badges.demolab.com/badge/PettingZoo-167C80?style=for-the-badge&logo=PettingZoo&logoColor=white">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gymnasium-43E55E?style=for-the-badge&logo=Gymnasium&logoColor=white">
-    <img src="https://custom-icon-badges.demolab.com/badge/Supersuit-1A1928?style=for-the-badge&logo=Supersuit&logoColor=white">
-    <img src="https://custom-icon-badges.demolab.com/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-</div>
-<br>
-<br>
-<br>
 
 
 <p align="center">
@@ -126,6 +86,48 @@ Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | 
     <img src="https://img.shields.io/badge/Arch-%2340D1F5?style=for-the-badge&logo=Arch&logoColor=white">
     <img src="https://img.shields.io/badge/Uvicorn-%2340D1F5?style=for-the-badge">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=plotly&logoColor=white">
+</div>
+<br>
+<br>
+<br>
+
+
+<p align="center">
+  <a href="https://github.com/michael-gurule/hyperion">
+    <img width="300" alt="HYPERION" src="https://github.com/user-attachments/assets/6ae91cdd-dd78-403f-a506-df7f2e51f669"/><a/>
+<br>
+<br>
+
+
+
+**HYPERION:** A production-grade Multi-Agent Reinforcement Learning (MARL) system that coordinates autonomous UAV swarms for hypersonic threat detection, tracking and interception in high-speed, GPS-denied environments. Built for aerospace and defense applications, this project showcases MLOps best practices, distributed systems design, and advanced reinforcement learning techniques applicable to autonomous systems challenges.
+
+**Key Features**
+
+- **Multi-Agent Reinforcement Learning:** Implemented MAPPO (Multi-Agent Proximal Policy Optimization) to enable 20+ autonomous agents to coordinate interception strategies without centralized control. Graph Neural Networks handle dynamic agent communication patterns.
+- **Physics-Informed Simulation:** Integrated Physics-Informed Neural Networks (PINNs) to generate realistic hypersonic trajectories (Mach 5+) with accurate aerodynamic modeling, providing high-fidelity training environments.
+- **Sensor Fusion Architecture:** Combines RF positioning (TDOA/FDOA), thermal imaging, and telemetry streams using Extended Kalman Filtering for robust threat tracking in contested environments.
+- **Production-Grade Implementation**
+Scalable Training Pipeline | Containerized Deployment | Comprehensive Testing | Interactive Dashboard
+<br>
+
+
+<div align="center">
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-ffffff?logo=python&style=for-the-badge&color=3776AB&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&style=for-the-badge&logoColor=fff">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff">
+    <img src="https://img.shields.io/badge/SciPy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/PyG-3C2179?style=for-the-badge&logo=pyg&logoColor=white">
+    <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/PettingZoo-167C80?style=for-the-badge&logo=PettingZoo&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Gymnasium-43E55E?style=for-the-badge&logo=Gymnasium&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Supersuit-1A1928?style=for-the-badge&logo=Supersuit&logoColor=white">
+    <img src="https://custom-icon-badges.demolab.com/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
 </div>
 <br>
 <br>
