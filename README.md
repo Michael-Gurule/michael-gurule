@@ -1,11 +1,3 @@
-<h1 align="center">WELCOME</h1>
-<br>
-<br>
-<h4 align="center">
-I build services that people rely on every day, and I don't take that lightly. There's something deeply satisfying about writing systems that just work; invisible infrastructure that powers real interactions without ever getting in the user's way. I specialize in telemetry, AI, and data engineering, where the goal is always the same: make the complex feel effortless. I care about doing it right.
-</h4>
-<br>
-<br>
 
 <h2 align="center">Recent Projects</h2>
 <br>
