@@ -1,6 +1,6 @@
+
 <div align="center">
-   <h1>Michael Gurule</h1>
-   <p><strong>Applied Scientist and ML Architect</strong> · Denver, CO </p>
+<img valign="middle" width="40" height="40" alt="MG Icon" src="https://github.com/user-attachments/assets/31f1e8c1-9def-4d54-8ecf-0f6b40dd6d5b" />   <strong>Applied Scientist and ML Architect</strong>
 </div>
 <br>
 
@@ -9,12 +9,10 @@ Most of the difficulty in operational data shows up before the model does. I bui
 By day I lead the modeling and cloud architecture for an anomaly detection, correlation, and forecasting platform covering about 32 million broadband endpoints. That work is private. The projects below are independent, and the source is open.
 
 <br>
+<br>
 
-
----
 <div align="center">
-   <h2>Selected projects</h2>
-   <p><strong>Different domains, one question underneath: what can a corrupted signal actually tell you?</strong></p>
+   <h2>Projects</h2>
 </div>
 
 <br>
@@ -102,16 +100,24 @@ A Bayesian media mix model that maps channel influence with causal graphs, carri
 </tr>
 </table>
 
----
+<br>
+<br>
 
-## Selected Writing
+
+## Recent Writing
 
 > *Some of what I’m reading and working through, written up. Mostly about where methods stop working, which is the part that tends to get left out.*
+
+<br>
+<br>
+
 
 ### [The Newcomb Paradox: What a Thought Experiment Can Teach Us About Trusting Models](https://medium.com/@michaelgurule1164/the-newcomb-paradox-what-a-thought-experiment-can-teach-us-about-trusting-models-beb11d1682b6)
 `Mar 2026` · *Medium*
 
 The paradox will not tell you whether to take one box or two. But it will ask you, with remarkable precision, whether you understand the system you are operating in well enough to make that call.
+
+<br>
 
 ---
 
@@ -120,6 +126,8 @@ The paradox will not tell you whether to take one box or two. But it will ask yo
 
 We can't escape it. The current buzzword being thrown around in every strategy meeting and quarterly earnings call is *agentic*. A look at where autonomous abstractions fail in production workflows.
 
+<br>
+
 ---
 
 ### [Net Positive: A Data Scientist's Philosophy for Building What Matters](https://medium.com/@michaelgurule1164/net-positive-a-data-scientists-philosophy-for-building-what-matters-94225a8d7eea)
@@ -127,43 +135,27 @@ We can't escape it. The current buzzword being thrown around in every strategy m
 
 The best technical talent doesn't just build impressive systems. They build systems that create lasting value while respecting organizational constraints and operator needs.
 
-<br/>
+<br>
+<br>
 
 [**Read all essays on Medium →**](https://medium.com/@michaelgurule1164)
 
----
+<br>
 <br>
 
-<h1 align="center">LET'S CONNECT!</h1>
-
-<h3 align="center">Michael Gurule</h3>
-
-<p align="center">
-  <strong>Applied Science & Machine Learning Architecture</strong>
-</p>
-<br>
-
-  
-<div align="center">
-  <a href="mailto:michaelgurule1164@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  <a href="michaelgurule.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/MICHAELGURULE.COM-150458?style=for-the-badge&logo=browser&logoColor=white"></a>
-  
-  <a href="www.linkedin.com/in/michael-gurule-447aa2134">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
-  
-  <a href="https://medium.com/@michaelgurule1164">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>    
-</div>
-<br>
-
----
 
 <p align="center"> 
-  
-<img width="450" alt="Github-Profile-Footer" src="https://github.com/user-attachments/assets/653bdf43-f5e6-4ace-a5ee-502d994bf43a" />
-
+<img width="60" height="60" alt="MG Icon" src="https://github.com/user-attachments/assets/31f1e8c1-9def-4d54-8ecf-0f6b40dd6d5b" />
 </p>
 
+<div align="center">
+<a href="mailto:michaelgurule1164@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="michaelgurule.com">
+<img src="https://custom-icon-badges.demolab.com/badge/MICHAELGURULE.COM-150458?style=for-the-badge&logo=browser&logoColor=white"></a>
+<a href="www.linkedin.com/in/michael-gurule-447aa2134">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a> 
+<a href="https://medium.com/@michaelgurule1164">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>    
+</div>
+<br>
