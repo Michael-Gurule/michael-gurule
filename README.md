@@ -1,18 +1,8 @@
-
-<div align="center">
-<img valign="middle" width="40" height="40" alt="MG Icon" src="https://github.com/user-attachments/assets/31f1e8c1-9def-4d54-8ecf-0f6b40dd6d5b" />   <strong>Applied Scientist and ML Architect</strong>
-</div>
-<br>
-
-Most of the difficulty in operational data shows up before the model does. I build statistical models for noisy, sparsely labeled, shifting data, and design the cloud systems that keep them working after launch.
-
-By day I lead the modeling and cloud architecture for an anomaly detection, correlation, and forecasting platform covering about 32 million broadband endpoints. That work is private. The projects below are independent, and the source is open.
-
 <br>
 <br>
 
 <div align="center">
-   <h2>Projects</h2>
+   <h2>Featured Work</h2>
 </div>
 
 <br>
