@@ -13,10 +13,10 @@
 <td width="50%" valign="top">
 <br>
 <a href="https://github.com/michael-gurule/sentinel">
-<img src="https://github.com/user-attachments/assets/84043002-a02f-4837-9d49-f3390b61176a" height="36" alt="SENTINEL-XF" />
+<img height="50" alt="locant_logo" src="https://github.com/user-attachments/assets/d6130cbd-9b1f-499e-8d3a-539f80add543" />
 </a>
 <br/><br/>
-<b>Multi-sensor tracking without GPS</b>
+<b>Multi-sensor detection, classification, geolocation, and tracking for OPIR and RF</b>
 <br/><br/>
 <code>Kalman filtering</code> <code>Passive geolocation</code> <code>Estimation bounds</code>
 <br/><br/>
