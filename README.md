@@ -18,9 +18,9 @@
 <br/><br/>
 <b>Multi-sensor detection, classification, geolocation, and tracking for OPIR and RF</b>
 <br/><br/>
-<code>Kalman filtering</code> <code>Passive geolocation</code> <code>Estimation bounds</code>
+<code>Kalman filtering</code> <code>Target tracking</code> <code>Uncertainty-quantification</code>
 <br/><br/>
-Fuses overhead infrared detection and RF geolocation (TDOA/FDOA) with an extended Kalman filter across asynchronous streams. Re-optimizing sensor placement improved tracking accuracy 40-fold with no change to the estimator.
+Multi-sensor fusion for overhead infrared satellites and RF receiver networks. It turns pixel-level infrared detections and RF time and frequency differences of arrival into one calibrated track picture. Fusion cuts tracking error 21% against infrared alone and 65% against RF alone, and the geolocation attains its theoretical (Cramér-Rao) bound. Every result is regenerated from code, with confidence intervals.
 <br/>&nbsp;
 
 </td>
