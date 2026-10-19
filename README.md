@@ -1,3 +1,4 @@
+
 <br>
 <br>
 
@@ -12,8 +13,8 @@
 <tr>
 <td width="50%" valign="top">
 <br>
-<a href="https://github.com/michael-gurule/sentinel">
-<img height="50" alt="locant_logo" src="https://github.com/user-attachments/assets/d6130cbd-9b1f-499e-8d3a-539f80add543" />
+<a href="https://github.com/michael-gurule/locant">
+<img height="40" alt="locant-logo-no-bg" src="https://github.com/user-attachments/assets/d39abf8e-91cf-4f87-917a-3fd2566ffa37" />
 </a>
 <br/><br/>
 <b>Multi-sensor detection, classification, geolocation, and tracking for OPIR and RF</b>
@@ -89,46 +90,6 @@ A Bayesian media mix model that maps channel influence with causal graphs, carri
 </td>
 </tr>
 </table>
-
-<br>
-<br>
-
-
-## Recent Writing
-
-> *Some of what I’m reading and working through, written up. Mostly about where methods stop working, which is the part that tends to get left out.*
-
-<br>
-<br>
-
-
-### [The Newcomb Paradox: What a Thought Experiment Can Teach Us About Trusting Models](https://medium.com/@michaelgurule1164/the-newcomb-paradox-what-a-thought-experiment-can-teach-us-about-trusting-models-beb11d1682b6)
-`Mar 2026` · *Medium*
-
-The paradox will not tell you whether to take one box or two. But it will ask you, with remarkable precision, whether you understand the system you are operating in well enough to make that call.
-
-<br>
-
----
-
-### [The Agentic Trap](https://medium.com/@michaelgurule1164/the-agentic-trap-db73b00d53db)
-`Feb 2026` · *Medium*
-
-We can't escape it. The current buzzword being thrown around in every strategy meeting and quarterly earnings call is *agentic*. A look at where autonomous abstractions fail in production workflows.
-
-<br>
-
----
-
-### [Net Positive: A Data Scientist's Philosophy for Building What Matters](https://medium.com/@michaelgurule1164/net-positive-a-data-scientists-philosophy-for-building-what-matters-94225a8d7eea)
-`Jan 2026` · *Medium*
-
-The best technical talent doesn't just build impressive systems. They build systems that create lasting value while respecting organizational constraints and operator needs.
-
-<br>
-<br>
-
-[**Read all essays on Medium →**](https://medium.com/@michaelgurule1164)
 
 <br>
 <br>
